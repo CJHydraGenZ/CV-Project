@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.cv {
+    margin-top: 30px;
+}
+
+
+
+.biodata .rincian h4 {
+    background-color: rgb(54, 173, 173);
+    border-radius: 4px;
+    padding: 4px;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.rincian p {
+    color: rgb(104, 104, 104);
+}
+
+.rincian .icon {
+    color: rgb(104, 104, 104);
+}
+
+.pen {
+    width: 250px;
+}
+
+.pnf {
+    width: 450px;
+}
+
+.icon {
+    font-size: 40px;
+    margin: 10px 0;
+    /* padding: 10px; */
+}
+
+.kiri {
+    background-color: rgb(90, 90, 90);
+    height: 100%;
+}
+
+.sosialM {
+    text-align: center;
+}
+
+.sosialM i {
+    font-size: 20px;
+}
+
+.progress {
+    height: 19px;
+}
